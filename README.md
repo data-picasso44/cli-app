@@ -14,3 +14,10 @@ $ node cli-app.js --url=https://www.example.com --selector=h1
 $ yarn add
 ```
 
+## Usage
+
+![Usage](assets/usage.png)
+
+## Result
+
+![Result](assets/result.png)
